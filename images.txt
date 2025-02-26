@@ -62,5 +62,5 @@
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #ollama 
-ollama/ollama:latest
-
+#ollama/ollama:latest
+milvusdb/milvus:v2.4.3
