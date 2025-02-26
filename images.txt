@@ -63,4 +63,5 @@
 
 #ollama 
 #ollama/ollama:latest
-milvusdb/milvus:v2.4.3
+#milvusdb/milvus:v2.4.3
+mongo:4.4.24
