@@ -64,4 +64,7 @@
 #ollama 
 #ollama/ollama:latest
 #milvusdb/milvus:v2.4.3
-mongo:4.4.24
+#mongo:4.4.24
+
+# 禅道 
+easysoft/zentao:latest
