@@ -68,3 +68,5 @@
 
 # 禅道 
 easysoft/zentao:latest
+bitnami/mariadb:10.6
+bitnami/redis:6.2
